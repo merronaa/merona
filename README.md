@@ -1,2 +1,2 @@
 # merona
-code for class
+https://github.com/merronaa/merona.git
